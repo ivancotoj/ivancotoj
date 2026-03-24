@@ -63,7 +63,7 @@ Here you’ll find projects related to:
 
 ## Contact
 
-- **LinkedIn:** [Add your LinkedIn here](#)
+- **LinkedIn:** [Iván Coto](https://www.linkedin.com/m/in/ivancototkd/)
 - **Email:** ivancotoj@gmail.com
 
 ---

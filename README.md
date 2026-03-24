@@ -1,76 +1,71 @@
 # Hi, I'm Iván Coto 👋
 
-**Software Developer** focused on backend engineering, scalable systems, cloud solutions, and modern software architectures.
+### Backend Software Developer | Java • Python • AWS • Kubernetes • CI/CD
+
+I build scalable backend systems, cloud-based solutions, and modern software architectures focused on performance, reliability, and business impact.
 
 ---
 
 ## About Me
 
-I’m a software developer with experience building and supporting enterprise-grade applications, backend services, and cloud-based solutions.  
-My work is centered around creating reliable, scalable, and maintainable systems that solve real business problems.
+Software developer with experience in enterprise environments, backend engineering, cloud platforms, and production support.  
+I’m passionate about designing systems that are maintainable, efficient, and built for scale.
 
-I enjoy working on:
-- Backend development
-- API design
-- Cloud architecture
-- Automation
-- Distributed systems
-- Performance optimization
+---
+
+## Core Expertise
+
+- Backend Development
+- REST API Design
+- Cloud Architecture
+- CI/CD Pipelines
+- Distributed Systems
+- Performance Troubleshooting
+- Automation & Process Optimization
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-Java • Python • TypeScript • SQL/NoSQL
+### Languages
+`Java` `Python` `TypeScript` `SQL`
 
-**Backend**  
-Spring Boot • Node.js • REST APIs • Microservices
+### Backend
+`Spring Boot` `Node.js` `REST APIs` `Microservices`
 
-**Frontend**  
-Angular • React • Next.js
+### Frontend
+`Angular` `React` `Next.js`
 
-**Cloud & DevOps**  
-AWS • Kubernetes • Docker • GitHub Actions • CI/CD • Terraform
+### Cloud & DevOps
+`AWS` `Kubernetes` `Docker` `GitHub Actions` `Terraform` `CI/CD`
 
-**Databases**  
-PostgreSQL • Oracle SQL • DynamoDB • Firestore • MongoDB
+### Databases
+`PostgreSQL` `Oracle SQL` `MongoDB` `DynamoDB` `Firestore`
 
-**Other**  
-Kafka • Event-Driven Architecture • System Design • Testing • Automation
-
----
-
-## What I’m Focused On
-
-- Building scalable backend applications
-- Designing clean and maintainable architectures
-- Improving cloud and deployment workflows
-- Expanding expertise in distributed and high-performance systems
+### Other
+`Kafka` `Event-Driven Systems` `System Design` `Testing` `Automation`
 
 ---
 
-## Featured Work
+## Current Focus
 
-Here you’ll find projects related to:
-- Backend systems and API development
-- Cloud-based solutions
-- Automation tools
-- Business-oriented software products
-- Full-stack applications with modern architectures
+- Scalable backend applications with Java / Spring Boot
+- Cloud-native development and deployment workflows
+- Software architecture and distributed systems
+- Building products that solve operational and business challenges
 
 ---
 
-## Contact
+## Featured Projects
 
-- **LinkedIn:** [Iván Coto](https://www.linkedin.com/m/in/ivancototkd/)
+- Scalable backend services
+- Automation and integration tools
+- Full-stack applications
+- Cloud and infrastructure-driven solutions
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** [Add your LinkedIn here](#)
 - **Email:** ivancotoj@gmail.com
-
----
-
-## GitHub Profile Highlights
-
-- Clean and scalable code practices
-- Strong backend and cloud focus
-- Real-world business and enterprise software experience
-- Continuous learning and hands-on development mindset
